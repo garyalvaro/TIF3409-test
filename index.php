@@ -13,5 +13,6 @@
         <li>Ivan</li>
         <li>Amal</li>
     </ul>
+    <p>Fasilkom-TI = Fakultas Ilkom dan TI</p>
 </body>
 </html>
