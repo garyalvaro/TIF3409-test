@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>NAMA DOSEN</h1>
+    <ul>
+        <li>Indra</li>
+        <li>Ivan</li>
+        <li>Amal</li>
+    </ul>
 </body>
 </html>
